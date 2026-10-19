@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Absinthe Hour
+# Deep olive night under a chartreuse glow, parchment text, orchid and
+# periwinkle accents. Art nouveau evening in a glass.
+
+accent = "#cdf25a"                    # Absinthe glow - luminescent chartreuse
+selection = "#39442a"                 # Muted herb bed
+muted = "#6f7a58"                     # Dried wormwood
+
+background = "#1a2010"                # Deep olive night
+dark_background = "#12160a"
+darker_background = "#0a0d06"
+lighter_background = "#2a3220"
+
+foreground = "#eee8d2"                # Parchment
+dark_foreground = "#8a9270"
+light_foreground = "#d8d1ba"
+bright_foreground = "#fffbe9"
+
+# Hyprland active border runs chartreuse into orchid.
+hyprland_active_border = "accent magenta 30deg"
+
+red = "#e4685a"                       # Coral
+yellow = "#e9d36b"                    # Pale absinthe
+orange = "#e79a55"                    # Amber cordial
+green = "#a9d94a"                     # Anise leaf
+cyan = "#7bd6b8"                      # Mint louche
+blue = "#8f9dff"                      # Periwinkle
+magenta = "#c48ce0"                   # Orris root
+brown = "#8a6a43"                     # Cork
+
+bright_red = "#ff8577"
+bright_yellow = "#f6e58b"
+bright_green = "#d7ff6b"
+bright_cyan = "#a0edcf"
+bright_blue = "#aab4ff"
+bright_magenta = "#dba8ff"
